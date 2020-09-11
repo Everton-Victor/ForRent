@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta.name="viewport".content="width=device-width, .initial-scale=1.0"
+	<meta charset="UTF-8">
+	<title>For Rent Site</title>
+	<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<section>
+			<div class="logo">ForRent</div>
+			<img src="Imagens/foto-menu.jpg" class="bg">
+			<div class="content">
+			<h2>Um equipamento profissional na palma da sua mão</h2>
+			<p> Encontre o equipamento ideal para aluguel de rápida e segura <br> ou faça você mesmo o aluguel para outras pessoas </p>
+			<a href="#">Alugue aqui</a>
+		</div>
+	</section>
+	<div class="menuToggle" onclick="toggleMenu();"></div>
+	<div class="navigation">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Cadastro</a></li>
+				<li><a href="#">Login</a></li>
+				<li><a href="#">Sobre</a></li>	
+				<li><a href="#">Contato</a></li>
+			</ul>
+			<div class="RedesSocias">
+			<ul>
+				<li><a href="#"><img src="Imagens/facebook.png"></a></li>
+				<li><a href="#"><img src="Imagens/twitter.png"></a></li>
+				<li><a href="#"><img src="Imagens/instagram.png"></a></li>
+				<li><a href="mailto:you@email.com"><img src="Imagens/email.png"></a></li>
+		</ul>
+	</div>
+</div>	
+	<script type="text/javascript">
+	function toggleMenu(){
+		var menuToggle = document.querySelector('.menuToggle');
+		var navigation = document.querySelector('.navigation');
+		menuToggle.classList.toggle('active');
+		navigation.classList.toggle('active');
+	}
+	</script>	
+</body>
+</html>
