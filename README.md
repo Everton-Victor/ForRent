@@ -1,8 +1,5 @@
-# ForRent
-É um aplicação web de aluguel de equipamentos fotográficos.
-
-## Imagem da Home
-![HomePage](HomePage_Print.PNG)
+# ForRent -> Projeto Ativo
+É uma aplicação web de aluguel de equipamentos fotográficos.
 
 ## O que irá solucionar?
 Ampliação do formato de aluguel de equipamentos fotográficos, pois a compra desses equipamentos muitas vezes não compensa, de modo que fica mais fácil alugar de outra pessoa  por um determinado período de tempo. O locatário e o locador terá mais facilidades para fazer negociações de aluguel. Pois essa aplicação conectara essas duas pessoas física de forma segura, fácil e rápida. 
@@ -30,8 +27,12 @@ De início vai ser uma aplicação web, com métodos de classificação onde o l
 - JS
   - Validação de formulário
   
+  ## Colaboradores
+  - Adenilson Aparecido
+  - Arthur Nunes
+  - Éverton Victor <strong>-></strong> <a href="https://github.com/Everton-Victor" title="GITHUB">Github</a> 
+  
   ## Licença
-  LICENSE 
-  https://github.com/Everton-Victor/HomePage/blob/master/LICENSE
+  <a href="https://github.com/Everton-Victor/HomePage/blob/master/LICENSE" title="Licença">LICENSE</a>
 
 
